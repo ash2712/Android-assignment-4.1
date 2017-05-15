@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Login Assignment Final</string>
+    <string name="welcomeText">Welcome to the login page. Please sign up to continue. </string>
+    <string name="homePageText">Welcome to the home page. Please fill in a few extra details to continue</string>
+    <string name="genderCall">Gender:</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="signUpCall">Don\'t have an account yet? Sign up here</string>
+
+
+</resources>
